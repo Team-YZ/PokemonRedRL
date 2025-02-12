@@ -1,4 +1,4 @@
-# A RL agents to play Pokemon Red
+# RL agents to play Pokemon Red
 
 ## Running the Pretrained Model Interactively 🎮  
 🐍 Python 3.10+ is recommended. Other versions may work but have not been tested.   
